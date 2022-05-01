@@ -1,0 +1,17 @@
+.one {
+    background-color: #FF7755;
+}
+
+#one-id {
+    color: #0e79dd;
+    font-size: larger;
+}
+
+.cooler {
+    font-size: large;
+}
+
+#another-id {
+    background-color: green;
+    font-weight: bold;
+}
